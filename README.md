@@ -6,11 +6,11 @@ Demo - "...."
 
 Backend Respository - "https://github.com/jennielaii/twitter-clone-backend.git"
 ## WireFrame 
-(./images/1.jpg)
-(./images/2.jpg)
-(./images/3.jpg)
-(./images/4.jpg)
-(./images/5.jpg)
+![Wireframe](./images/1.jpg)
+![Wireframe](./images/2.jpg)
+![Wireframe](./images/3.jpg)
+![Wireframe](./images/4.jpg)
+![Wireframe](./images/5.jpg)
 ## Features
 
 1. Signup/Login
