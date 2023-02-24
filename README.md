@@ -5,7 +5,12 @@ Twitter clone bulit with React.
 Demo - "...."
 
 Backend Respository - "https://github.com/jennielaii/twitter-clone-backend.git"
-
+## WireFrame 
+(./images/1.jpg)
+(./images/2.jpg)
+(./images/3.jpg)
+(./images/4.jpg)
+(./images/5.jpg)
 ## Features
 
 1. Signup/Login
